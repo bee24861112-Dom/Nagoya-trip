@@ -1,2 +1,0 @@
-# Nagoya-trip
-traveling 
